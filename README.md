@@ -23,6 +23,7 @@ The full ExHentai Database
 - group
 - artist
 - misc
+
 总条目数：
 大小：
 （目前一对多的tag还是以；分割的字符串，这几天有时间把它改成单独的表）
