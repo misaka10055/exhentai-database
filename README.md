@@ -1,6 +1,8 @@
 # exhentai-database
 The full ExHentai Database
 
+Status: Uploading...
+
 众所周知，e站备份最大的难点就是元数据的备份。现在各位可能已经通过各种渠道获取到了图片资源的备份，但是元数据（tags, artists)还没有人释放出可用的资源。
 
 然而元数据在E站也是至关重要的。e站的一大特点就是你可以通过tags 搜索你需要的资源。比如
