@@ -3,6 +3,8 @@ The full ExHentai Database
 
 Status: Uploaded
 
+# 中文介绍
+
 众所周知，e站备份最大的难点就是元数据的备份。现在各位可能已经通过各种渠道获取到了图片资源的备份，但是元数据（tags, artists)还没有人释放出可用的资源。
 
 然而元数据在E站也是至关重要的。e站的一大特点就是你可以通过tags 搜索你需要的资源。比如
@@ -40,3 +42,35 @@ Status: Uploaded
 PS：图片资源也在从其他人备份的源努力下载中，预计大概4-5天能下完所有中文资源（大约4T）
 
 有了元数据之后，再整合图片资源，ex站复活指日可待啊（flag
+
+
+# English
+
+This is the full backup of the exhentai metadata. The backup finished a few hours before the website was down. 
+
+It is a SQLite database with the following information:
+
+- Name (title) of the work
+- Category (Image Set/Non-h/Manga...)
+- Upload Time
+- Uploader
+- Number of Pages
+
+And tags including:
+
+- Language
+- Parody
+- Character
+- Female
+- Male
+- Group
+- Artist
+- Misc
+
+You may use the database however you want (as long as it’s legal). 
+
+# Contributions
+
+All Contributions are welcome. I’m currently setting up an API server using this data, so if you have any suggestions, feel free to open an issue.
+
+如果有任何建议，欢迎联系我。
